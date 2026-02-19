@@ -9,7 +9,7 @@ The profiler can be bound using `with`.
 - **Flexible output** – sort by time, hits, or line number; filter by threshold
 
 ## Installation
-`pip install lineprofiler`
+`pip install with-line-profiler`
 
 ## Workflow
 ```python
