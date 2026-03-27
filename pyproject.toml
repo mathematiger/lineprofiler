@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "lineprofiler"
-version = "0.1.0"
+version = "0.1.1"
 description = "Context-manager based line-by-line profiler for Python functions"
 readme = "README.md"
 license = "MIT"
